@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Deathyhummy9/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines/blob/main/README.md)
 - <b>Microsoft Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Deathyhummy9/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-/edit/main/README.md)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Deathyhummy9/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-/blob/main/README.md)
 <h2>🤳Connect with me:</h2>
 
 
