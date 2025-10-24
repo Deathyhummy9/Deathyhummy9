@@ -10,7 +10,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Deathyhummy9/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines/blob/main/README.md)
 - <b>Microsoft Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Deathyhummy9/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-/blob/main/README.md)
-  - [Auto creating users using powershell and estbalishing GPO (group policys)](https://github.com/Deathyhummy9/active-directory-auto-creating-users-and-gpo/blob/main/README.md
+  - [Auto creating users using powershell and estbalishing GPO (group policys)](https://github.com/Deathyhummy9/active-directory-auto-creating-users-and-gpo/blob/main/README.md)
   - [Configuring file access and permissions in active directory azure](https://github.com/Deathyhummy9/active-directory-file-shares-and-permissions)
 <h2>🤳Connect with me:</h2>
 
