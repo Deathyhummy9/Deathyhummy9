@@ -12,7 +12,7 @@
 - <b>Microsoft Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Deathyhummy9/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-/blob/main/README.md)
   - [Auto creating users using powershell and estbalishing GPO (group policys)](https://github.com/Deathyhummy9/active-directory-auto-creating-users-and-gpo/blob/main/README.md)
-  - [Configuring file access and permissions in active directory azure](https://github.com/Deathyhummy9/active-directory-file-shares-and-permissions)
+  - [Configuring file access and permissions in active directory azure](https://github.com/Deathyhummy9/pfSense-and-OpenVPN-Remote-Access-Lab/tree/main)
 <h2>🤳Connect with me:</h2>
 
 
