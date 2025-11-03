@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Deathyhummy9/osTicket-help_tickets-simulation/blob/main/README.md)
 - <b>Networking</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Deathyhummy9/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines/blob/main/README.md)
-  - [PfSense and OpenVPN Remote Acess lab](https://github.com/Deathyhummy9/pfSense-and-OpenVPN-Remote-Access-Lab/blob/main/README.md)
+  - [PfSense and OpenVPN Remote Acess to devices lab](https://github.com/Deathyhummy9/pfSense-and-OpenVPN-Remote-Access-Lab/blob/main/README.md)
 - <b>Microsoft Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Deathyhummy9/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-/blob/main/README.md)
   - [Auto creating users using powershell and estbalishing GPO (group policys)](https://github.com/Deathyhummy9/active-directory-auto-creating-users-and-gpo/blob/main/README.md)
