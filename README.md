@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cyber security Projects:</h2>
 
-- <b>Soc analyst projects b>
+- <b>Soc analyst projects <b>
   - 
--<b>Python cybersecurity projects </b>
+- <b>Python cybersecurity projects </b>
   -
 - <b>Networking</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Deathyhummy9/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines/blob/main/README.md)
