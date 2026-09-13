@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber security Projects:</h2>
 
 - <b>Soc analyst projects <b>
-  - Wazuh SIEM Detection Lab
+  - [Wazuh SIEM Detection and attack Lab](https://github.com/Deathyhummy9/Wazuh-siem-homelab-)
   - Data Loss Prevention Monitoring (Wazuh Lab Extension)
 - <b>Python cybersecurity projects </b>
   -Phishing Email Header Analyzer (Python)(not started)
